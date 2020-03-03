@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="more">more</string>
+    <string name="salads">salad</string>
+    <string name="chicken">chicken</string>
+    <string name="meat">meat</string>
+    <string name="drinks">drinks</string>
+    <string name="mocking_price">15.55$</string>
+    <string name="moveme">moveMe</string>
+    <string name="i_want_to_rotate">i want to rotate</string>
+</resources>
